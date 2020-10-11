@@ -1,0 +1,4 @@
+- pipeline.id: twitter_pipeline
+  path.config: "/usr/share/logstash/pipeline/twitter.conf"
+  # path.config: "/usr/share/logstash/pipeline/logstash.conff"
+  queue.type: persisted
