@@ -1,3 +1,4 @@
 
 
-*/twitter.conf
+./logstash/pipeline/twitter.conf
+logstash/pipeline/twitter.conf
